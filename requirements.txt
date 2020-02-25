@@ -1,0 +1,2 @@
+aiohttp
+https://github.com/messa/aiohttp-request-id-logging/archive/master.zip
